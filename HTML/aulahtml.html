@@ -1,6 +1,7 @@
 <!doctype html>
-<html>
+<html lang="pt-BR">
 	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" href="aulacss.css">
 		<meta charset="utf-8">
 		<title>Aprendizado</title>
@@ -8,11 +9,24 @@
 	<body>
 		<h1 id="titulo01">Bem vindo a página!</h1>
 			<p id="p1"> Estou aprendendo a linguagem HTML, CSS e JavaScript.</p>
+			
+<div id="containermenu">
+    <div><a href="#">Suporte Técnico de TI</a></div>
+    <div><a href="#">Rede de Computadores</a></div>
+    <div><a href="#">Infraestrutura</a></div>
+    <div><a href="#">Manutenção de Hardware e Software</a></div>
+</div>
 	
+<h2 id="sobre1">Sobre</h2>
+
+<p id="port">Estou em busca de novas oportunidades para desenvolver minha carreira e expandir meu conhecimento. 
+Sou uma pessoa proativa e criativa, com facilidade para aprender e me adaptar a novas tecnologias.</P>
+
+	<form>
 		<fieldset>
 		<legend>Fale Conosco</legend>
 			<label for="nome">Nome: </label>
-			<input type="text" name="nome" required>
+			<input type="text" id="nome" name="nome" required>
 			<br>
 			<label for="email">Email: </label>
 			<input type="email" name="email" required>
@@ -28,6 +42,8 @@
 			<br>
 			<input type="submit" value="Enviar">
 		</fieldset>
+	</form>
+		
 		<footer>
 			<a href="#">Voltar</a>
 			<div class="gradient">
