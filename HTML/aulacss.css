@@ -3,7 +3,7 @@
 	src: url("FiraSans-Regular.woff2") format("woff2");
 }
 
-@font-face `{
+@font-face {
 	font-family: "lobster";
 	src: url("Lobster-Regular.woff2") format("woff2");
 }
@@ -13,7 +13,7 @@
 	color: white;
 	background-color: green;
 	font-size: 36px;
-	font-family: lobster;
+	font-family: "lobster";
 }
 
 #p1 {
@@ -22,10 +22,40 @@
 	text-align: center;
 }
 
+#sobre1 {
+	height:20px;
+    padding-left: 30px;
+}
+
+#port {
+	font-size:18px;
+	font-family: "firasans";
+}
+
 fieldset label {
 	display: inline-block;
 	padding-bottom: 10px;
 	font-family: Arial, sans-serif;
+}
+
+#containermenu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    background-color: green;
+    font-size: 22px;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+
+#containermenu a {
+	text-decoration: none;
+	color:white;
+}
+
+#containermenu a:hover {
+    color: yellow;
 }
 
 .gradient {
@@ -36,8 +66,8 @@ fieldset label {
 	height: 80px;
 	background: linear-gradient(to right, black, green);
 	margin: 20px 30px;
-	text-decoration: none;
 	text-align: center;
+	border-radius: 10px;
 	}
 	
 .gradient a {
