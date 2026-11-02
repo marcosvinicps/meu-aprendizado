@@ -1,44 +1,48 @@
-Olá! 👋
+# Olá! 👋
 
-Este repositório tem como objetivo documentar minha evolução nos estudos de desenvolvimento web, registrando meus aprendizados, exercícios e pequenos projetos desenvolvidos durante essa jornada.
+Este repositório tem como objetivo documentar minha evolução nos estudos de programação e desenvolvimento web, registrando meus aprendizados, exercícios e pequenos projetos desenvolvidos durante essa jornada.
 
-Atualmente, estou aprendendo **HTML5 e CSS3**, colocando em prática os conceitos estudados e construindo uma base sólida para continuar evoluindo na área de tecnologia.
+Atualmente, estou estudando **HTML5, CSS3 e C++**, colocando em prática os conceitos aprendidos e construindo uma base sólida para continuar evoluindo na área de tecnologia.
 
 ## 📚 Conteúdos estudados
 
 ### HTML5
-- [x] Estrutura básica de uma página HTML
-- [x] Títulos, parágrafos e formatação de textos
-- [x] Listas ordenadas e não ordenadas
-- [x] Links e imagens
-- [x] Formulários e campos de entrada
-- [x] Labels e atributos dos inputs
-- [x] Validação de campos com `required` e `pattern`
-- [x] Identificadores (`id`) e atributos HTML
+
+- Estrutura básica de uma página HTML
+- Títulos, parágrafos e formatação de textos
+- Listas ordenadas e não ordenadas
+- Links e imagens
+- Formulários e campos de entrada
+- Labels e atributos dos inputs
+- Validação de campos com `required` e `pattern`
+- Identificadores (`id`) e atributos HTML
 
 ### CSS3
-- [x] Seletores por ID e elementos HTML
-- [x] Cores, fundos e personalização de textos
-- [x] Alinhamento de elementos
-- [x] Fontes e propriedades tipográficas
-- [x] Fontes personalizadas com `@font-face`
-- [x] Espaçamento com `padding` e `margin`
-- [x] Links e estilização de elementos
-- [x] Gradientes com `linear-gradient()`
-- [ ] Layouts responsivos com Media Queries
-- [ ] Flexbox e Grid Layout
 
-### C++ 
-- [x] Estrutura básica de um programa
-- [x] Biblioteca `iostream`
-- [x] Função `main()`
-- [x] Entrada e saída de dados com `cin` e `cout`
-- [x] Declaração de variáveis
-- [x] Operações matemáticas básicas
-- [x] Estruturas condicionais
-- [x] Verificação de números pares e ímpares
-- [ ] Estruturas de repetição
-- [ ] Funções e modularização
+- Seletores por ID, classe e elementos HTML
+- Cores, fundos e personalização de textos
+- Alinhamento e organização de elementos
+- Fontes e propriedades tipográficas
+- Fontes personalizadas com `@font-face`
+- Box Model (`margin`, `padding`, `border` e `content`)
+- Pseudoclasses e pseudoelementos
+- Flexbox e organização de layouts
+- Gradientes com `linear-gradient()`
+- Conceitos de layouts responsivos
+- Conhecimentos introdutórios sobre frameworks CSS, como Bootstrap e Foundation
+
+### C++
+
+- Estrutura básica de um programa
+- Biblioteca `iostream`
+- Função `main()`
+- Entrada e saída de dados com `cin` e `cout`
+- Declaração de variáveis
+- Operações matemáticas básicas
+- Estruturas condicionais
+- Verificação de números pares e ímpares
+- Estruturas de repetição
+- Funções e modularização
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -52,8 +56,8 @@ Atualmente, estou aprendendo **HTML5 e CSS3**, colocando em prática os conceito
 
 - Consolidar os fundamentos do desenvolvimento web.
 - Desenvolver páginas cada vez mais completas e organizadas.
-- Praticar por meio de exercícios e projetos pessoais.
-- Aprender JavaScript futuramente.
+- Praticar programação por meio de exercícios e projetos pessoais.
+- Aprender JavaScript e ampliar meus conhecimentos em desenvolvimento web.
 - Construir um portfólio para demonstrar minha evolução profissional.
 
 ## 📈 Minha evolução
