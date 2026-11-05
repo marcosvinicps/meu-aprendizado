@@ -23,12 +23,13 @@
 }
 
 #sobre1 {
+	font-size:32px;
 	height:20px;
     padding-left: 30px;
 }
 
 #port {
-	font-size:18px;
+	font-size:20px;
 	font-family: "firasans";
 }
 
@@ -77,4 +78,11 @@ fieldset label {
 
 .gradient a:visited {
     color: white;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    width: 300px;
+    height: 25px;
 }
